@@ -19,13 +19,11 @@ So if you're looking for a cybersecurity rockstar to help you protect your syste
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tarunkal/SIEM-Implementation-and-Log-Analysis">SIEM Lab</a>|
-| Malware Analysis Lab                          | <a href="https://github.com/Tarunkal/Malware-Analysis-Lab">Malware Lab</a>|
-| PIA Analysis For AI Products                  | Privacy Analysis           |
-| Ubuntu OS Hardening Script                    |<a href="https://github.com/Shrit-Shah/Linux_OS_Hardening-CIS_Benchmarks">OS Hardening</a> |
-| Blue team Labs (SOC Alerts)                   | <a href="https://app.letsdefend.io/user/tarunkal">SOC Profile</a>|
-| Privacy Law                                   | Privacy law Analysis      |
-| SOC Home Lab                                  | currently engaged         |
+| Honeypot SSH Attack and SIEM Implementation   | <a href="https://github.com/FirewallWizard/Monitoring-and-Alerting-on-SSH-Attacks-with-Kippo-Honeypot">KIPPO Honeypot</a>|
+| Network Analysis and Predict by ML            | <a href="https://github.com/FirewallWizard/Network-Analysis-Through-Using-Wazuh-and-Predict-By-ML">Network Analysis and Predict by ML</a>|
+| Creating and Managing AWS-VPC                 | <a href="https://github.com/FirewallWizard/AWS-VPC-project">AWC Lab</a>|
+| AD-DC Homelab                                 |<a href="https://github.com/FirewallWizard/AD-DC-Home-Lab">AD Lab</a> |
+| Vulnerablility Management                     | <a href="https://github.com/FirewallWizard/Vulnerability-Management">Nessus Home Lab</a>|
 
 ## Tools & Frameworks 
 
