@@ -24,6 +24,7 @@ So if you're looking for a cybersecurity rockstar to help you protect your syste
 | Creating and Managing AWS-VPC                 | <a href="https://github.com/FirewallWizard/AWS-VPC-project">AWC Lab</a>|
 | AD-DC Homelab                                 |<a href="https://github.com/FirewallWizard/AD-DC-Home-Lab">AD Lab</a> |
 | Vulnerablility Management                     | <a href="https://github.com/FirewallWizard/Vulnerability-Management">Nessus Home Lab</a>|
+| Cryptography                                  | <a href="https://github.com/FirewallWizard/RSA-Image-Encryption">Image Encryption Tool</a>|
 
 ## Tools & Frameworks 
 
