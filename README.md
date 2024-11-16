@@ -19,6 +19,7 @@ So if you're looking for a cybersecurity rockstar to help you protect your syste
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| virtualization, SIEM, C2, EDR, analysis, and incident management   | <a href="https://github.com/FirewallWizard/30-Days-SOC-Challenge-HOME-LAB-">SOC Home Lab</a>|
 | Honeypot SSH Attack and SIEM Implementation   | <a href="https://github.com/FirewallWizard/Monitoring-and-Alerting-on-SSH-Attacks-with-Kippo-Honeypot">KIPPO Honeypot</a>|
 | Network Analysis and Machine Learning         | <a href="https://github.com/FirewallWizard/Network-Analysis-Through-Using-Wazuh-and-Predict-By-ML">Network Analysis and Predict by ML</a>|
 | Creating and Managing AWS-VPC                 | <a href="https://github.com/FirewallWizard/AWS-VPC-project">AWC Lab</a>|
