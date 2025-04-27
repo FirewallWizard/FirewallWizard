@@ -1,9 +1,11 @@
-# Cyber-security-portfolio
+
 # Hello, I'm Deep Shah
-<a href="https://www.linkedin.com/in/deepshah2011/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/r/p/Dynamic007" target="_blank">
+**`Technical Support Specialist / Network Engineer`**
+
+<!-- <a href="https://www.linkedin.com/in/deepshah2011/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> //
+<a href="https://tryhackme.com/r/p/Dynamic007" target="_blank"> 
     <img src="https://img.shields.io/badge/-TryHackMe-0000FF?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
+</a> -->
 
 
 
