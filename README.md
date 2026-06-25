@@ -9,7 +9,7 @@
 
 
 
-I am a recent Postgraduate in Cybersecurity Operations with expertise in SOC operations, incident response, malware analysis, and SIEM. Skilled in threat management and hands-on security testing through home lab projects.
+IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 technical support across Windows 11, macOS, and Microsoft 365 environments. Experienced in deskside and remote support, incident triage, user account administration, and hardware/peripheral troubleshooting, resolving incidents efficiently using ticketing systems, such as ServiceMow, OSTicket. Strong background in Microsoft 365 Administration. Recognized for high first contact resolution, strong documentation, and effective collaboration with technical and non technical stakeholders
 
 ## Objective
 Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, leveraging my expertise in threat detection, incident response, and security monitoring. Eager to contribute to proactive defense strategies and enhance organizational cybersecurity resilience through hands-on skills in SIEM, malware analysis, and SOC processes.
