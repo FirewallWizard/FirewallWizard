@@ -11,8 +11,7 @@
 
 IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 technical support across Windows 11, macOS, and Microsoft 365 environments. Experienced in deskside and remote support, incident triage, user account administration, and hardware/peripheral troubleshooting, resolving incidents efficiently using ticketing systems, such as ServiceMow, OSTicket. Strong background in Microsoft 365 Administration. Recognized for high first contact resolution, strong documentation, and effective collaboration with technical and non technical stakeholders.
 
-## Objective
-Technical Skills
+## Technical Skills
 Microsoft 365 Administration (Exchange Online, Teams, SharePoint, OneDrive)
 Identity & Access Management (Active Directory, Azure AD/Microsoft Entra ID, MFA, GPO)
 Endpoint Management (Microsoft Intune, Windows Autopilot, Patch & Update Management
@@ -21,9 +20,9 @@ Networking & Security Fundamentals (VPN, Firewalls)
 Ticketing & Documentation (HappyFox Ticketing System, ConnectWise, Incident Documentation)
 Documentation & Training (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
 Soft Skills (Customer Service Excellence, Clear Technical Communication, Time Management)
-## Skills
+## Associated Project   
 
-| Skill                                         | Associated Project         |
+
 |-----------------------------------------------|----------------------------|
 | virtualization, SIEM, C2, EDR, analysis, and incident management   | <a href="https://github.com/FirewallWizard/30-Days-SOC-Challenge-HOME-LAB-">SOC Home Lab</a>|
 | Honeypot SSH Attack and SIEM Implementation   | <a href="https://github.com/FirewallWizard/Monitoring-and-Alerting-on-SSH-Attacks-with-Kippo-Honeypot">KIPPO Honeypot</a>|
