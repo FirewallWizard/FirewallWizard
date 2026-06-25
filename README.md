@@ -1,5 +1,5 @@
-
-# Hello, I'm Deep Shah
+<div align="center">
+# 👋 Hi, I'm Deep Shah
 **`IT Support Specialist | Microsoft 365, Entra ID & Intune Administrator | Endpoint & Identity Management `**
 
 <!-- <a href="https://www.linkedin.com/in/deepshah2011/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> //
