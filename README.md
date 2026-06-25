@@ -12,14 +12,15 @@
 IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 technical support across Windows 11, macOS, and Microsoft 365 environments. Experienced in deskside and remote support, incident triage, user account administration, and hardware/peripheral troubleshooting, resolving incidents efficiently using ticketing systems, such as ServiceMow, OSTicket. Strong background in Microsoft 365 Administration. Recognized for high first contact resolution, strong documentation, and effective collaboration with technical and non technical stakeholders.
 
 ## Technical Skills
-Microsoft 365 Administration (Exchange Online, Teams, SharePoint, OneDrive)
-Identity & Access Management (Active Directory, Azure AD/Microsoft Entra ID, MFA, GPO)
-Endpoint Management (Microsoft Intune, Windows Autopilot, Patch & Update Management
-Hardware & OS Troubleshooting (Windows 11, macOS, Microsoft 365 (Outlook, Exchange, Teams, OneDrive)
-Networking & Security Fundamentals (VPN, Firewalls)
-Ticketing & Documentation (HappyFox Ticketing System, ConnectWise, Incident Documentation)
-Documentation & Training (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
-Soft Skills (Customer Service Excellence, Clear Technical Communication, Time Management)
+
+* **Microsoft 365 Administration** (Exchange Online, Teams, SharePoint, OneDrive)
+* **Identity & Access Management** (Active Directory, Azure AD/Microsoft Entra ID, MFA, GPO)
+* **Endpoint Management** (Microsoft Intune, Windows Autopilot, Patch & Update Management)
+* **Hardware & OS Troubleshooting** (Windows 11, macOS, Microsoft 365 (Outlook, Exchange, Teams, OneDrive))
+* **Networking & Security Fundamentals** (VPN, Firewalls)
+* **Ticketing & Documentation** (HappyFox Ticketing System, ConnectWise, Incident Documentation)
+* **Documentation & Training** (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
+* **Soft Skills** (Customer Service Excellence, Clear Technical Communication, Time Management)
 ## Associated Project   
 
 
