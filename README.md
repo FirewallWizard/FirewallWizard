@@ -1,6 +1,6 @@
-<div align="center">
-### 👋 Hi, I'm Deep Shah
-</div>
+
+# 👋 Hi, I'm Deep Shah
+
 **`IT Support Specialist | Microsoft 365, Entra ID & Intune Administrator | Endpoint & Identity Management `**
 
 <!-- <a href="https://www.linkedin.com/in/deepshah2011/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> //
@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/badge/-TryHackMe-0000FF?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a> -->
 
+I’m an **System Admin & M365 Engineer** focused on designing, securing, and automating modern enterprise environments.
 
+My work spans across **Microsoft Azure**, **hybrid infrastructure**, **identity and access management**, **endpoint management**, and **system configuration**. I enjoy building solutions that are secure, scalable, and practical for real business environments.
 
-IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 technical support across Windows 11, macOS, and Microsoft 365 environments. Experienced in deskside and remote support, incident triage, user account administration, and hardware/peripheral troubleshooting, resolving incidents efficiently using ticketing systems, such as ServiceMow, OSTicket. Strong background in Microsoft 365 Administration. Recognized for high first contact resolution, strong documentation, and effective collaboration with technical and non technical stakeholders.
-
-## Technical Skills
+## 🧰 Core Competence 
 
 * **Microsoft 365 Administration** (Exchange Online, Teams, SharePoint, OneDrive)
 * **Identity & Access Management** (Active Directory, Azure AD/Microsoft Entra ID, MFA, GPO)
@@ -21,7 +21,7 @@ IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 t
 * **Networking & Security Fundamentals** (VPN, Firewalls)
 * **Documentation & Training** (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
 
-## Associated Project
+## ⚙️ Associated Project
 
 | Topic / Focus | Project Link |
 | :--- | :--- |
