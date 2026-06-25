@@ -9,14 +9,18 @@
 
 
 
-IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 technical support across Windows 11, macOS, and Microsoft 365 environments. Experienced in deskside and remote support, incident triage, user account administration, and hardware/peripheral troubleshooting, resolving incidents efficiently using ticketing systems, such as ServiceMow, OSTicket. Strong background in Microsoft 365 Administration. Recognized for high first contact resolution, strong documentation, and effective collaboration with technical and non technical stakeholders
+IT Support Specialist with 3+ years of experience delivering Tier 1 and Tier 2 technical support across Windows 11, macOS, and Microsoft 365 environments. Experienced in deskside and remote support, incident triage, user account administration, and hardware/peripheral troubleshooting, resolving incidents efficiently using ticketing systems, such as ServiceMow, OSTicket. Strong background in Microsoft 365 Administration. Recognized for high first contact resolution, strong documentation, and effective collaboration with technical and non technical stakeholders.
 
 ## Objective
-Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, leveraging my expertise in threat detection, incident response, and security monitoring. Eager to contribute to proactive defense strategies and enhance organizational cybersecurity resilience through hands-on skills in SIEM, malware analysis, and SOC processes.
-
-I've got a sharp mind and a knack for problem-solving 🔑, which makes me a valuable asset to any cybersecurity team. I'm always up for a challenge, and I'm constantly seeking out new opportunities to learn and grow as a professional 💡📝.
-
-So if you're looking for a cybersecurity rockstar to help you protect your systems and stay ahead of the curve, look no further! Let's connect and make the internet a safer place together 🤝🌐🔒.
+Technical Skills
+Microsoft 365 Administration (Exchange Online, Teams, SharePoint, OneDrive)
+Identity & Access Management (Active Directory, Azure AD/Microsoft Entra ID, MFA, GPO)
+Endpoint Management (Microsoft Intune, Windows Autopilot, Patch & Update Management
+Hardware & OS Troubleshooting (Windows 11, macOS, Microsoft 365 (Outlook, Exchange, Teams, OneDrive)
+Networking & Security Fundamentals (VPN, Firewalls)
+Ticketing & Documentation (HappyFox Ticketing System, ConnectWise, Incident Documentation)
+Documentation & Training (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
+Soft Skills (Customer Service Excellence, Clear Technical Communication, Time Management)
 ## Skills
 
 | Skill                                         | Associated Project         |
